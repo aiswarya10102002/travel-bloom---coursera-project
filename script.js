@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
         {
             name: "Ancient Temple",
             description: "Experience the rich history and spiritual essence of ancient temples.",
-            images: ["images/temple1.jpg", "images/temple2.jpg"] // Only two images
+            images: ["temple1.jpg", "temple2.jpg"] // Only two images
         }
     ];
 
@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
         {
             name: "Beach Paradise",
             description: "Relax on the golden sands and enjoy the crystal-clear waters.",
-            images: ["images/beach1.jpg", "images/beach2.jpg"] // Only two images
+            images: ["beach1.jpg", "beach2.jpg"] // Only two images
         }
     ];
 
@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", () => {
         {
             name: "India",
             description: "Discover vibrant cultures and historic landmarks.",
-            images: ["images/india1.jpg", "images/india2.jpg"] // Only two images
+            images: ["india1.jpg", "india2.jpg"] // Only two images
         }
     ];
 
